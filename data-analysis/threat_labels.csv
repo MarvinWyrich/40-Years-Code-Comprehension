@@ -1,0 +1,377 @@
+label ID,label,category,threat classification (Jedlitschka),paper ID
+L1,judgment on relevance of Brodmann areas influenced comprehension model,Subjectivity in evaluating data,internal,S1
+L2,uncontrolled confusing code aspects,Content of study object,internal,S2
+L3,subjective selection of potentially confusing atoms,Content of study object,internal,S2
+L4,defect identification as comprehension task may carry some overhead,Construct operationalization,internal,S3
+L5,limitations of letterbox method,Instrumentation,internal,S3
+L6,unknown confounding factors,Causal model,internal,S4
+L7,same snippet order and last snippet affected by fatigue,Fatigue,internal,S4
+L8,programming experience as confounder,Programming experience,internal,S4
+L9,not controlled for cheating,Process conformance,internal,S4
+L10,participants interrupted by external events,Technical issues,internal,S5
+L11,bias in training data for ML models,ML data and model,internal,S5
+L12,performance affected by think-aloud method,Task procedure,internal,S5
+L13,unknown extraneous variables in long comprehension sessions,Causal model,internal,S5
+L14,inter-annotator agreement worse due to missing readability definition,Subjectivity in evaluating data,internal,S6
+L15,influence of practice on inter-annotator agreement,Subjectivity in evaluating data,internal,S6
+L16,influence of fatigue on inter-annotator agreement,Subjectivity in evaluating data,internal,S6
+L17,acquaintance with process in second period,Learning effects,internal,S7
+L18,fatigue effect,Fatigue,internal,S7
+L19,measured time in second period affected by activities in first one,Learning effects,internal,S7
+L20,influence of specific IDE on programming paradigms,Code editor,internal,S8
+L21,different length of code snippets,Size of study object,internal,S9
+L22,different snippet outputs,Content of study object,internal,S9
+L23,uncontrolled inherent complexity in specific snippets,Difficulty,internal,S9
+L24,influence of choosing input for comprehension task,Instrumentation,internal,S9
+L25,familiarity with specific coding guideline,Familiarity with tools,internal,S9
+L26,learning effect,Learning effects,internal,S9
+L27,not using snippets that correspond to well-known plans,Content of study object,internal,S9
+L28,uncontrolled experiment conditions for participants,Causal model,internal,S9
+L29,interpersonal differences between subjects,Background (generic),internal,S9
+L30,unnoticed learning effects,Learning effects,internal,S12
+L31,unfamiliar work environment,Familiarity with tools,internal,S12
+L32,evaluation apprehension,Evaluation apprehension,internal,S12
+L33,homogeneous sample of developers,Sampling strategy,internal,S12
+L34,noise reduction method reduced NIRS sampling frequency,Data quality,internal,S13
+L35,built on inadequate research,Causal model,internal,S15
+L36,low number of participants,Sampling strategy,internal,S17
+L37,presence of a time limit for reading the code,Time limit,internal,S20
+L38,no access to production code when reading the test code,Task procedure,internal,S20
+L39,majority of developers less than five years of experience,Programming experience,internal,S22
+L40,longer break between questions could increase neuron oscillation accuracy,Data quality,internal,S23
+L41,could not calculate peak alpha frequency due to missing subject age,Data consistency,internal,S23
+L42,loss of participants during treatment,Mortality and Study-object coverage,internal,S24
+L43,exposure to early questions influences later responses,Learning effects,internal,S24
+L44,influence of outside noise on the concentration of participants,Concentration impairment,internal,S25
+L45,influence of eye tracker presence,Instrumentation,internal,S25
+L46,participant's ability to adequately order snippets by difficulty,Ability,internal,S25
+L47,alternatives for measuring visual effort might have been more informative,Construct operationalization,internal,S25
+L48,high subjective factor of eye-tracking data,Subjectivity in evaluating data,internal,S25
+L49,small number of participants hinders obtaining differences in visual effort,Sampling strategy,internal,S25
+L50,eye tracking data might be too inaccurate due to materials and study settings,Data quality,internal,S25
+L51,variability among experimental subjects,Background (generic),internal,S26
+L52,potential influence of stress,Stress,internal,S26
+L53,potential influence of fatigue,Fatigue,internal,S27
+L54,too many first year students,Education,internal,S26
+L55,students' opinion influenced by academic setting,Education,internal,S26
+L56,only two functions used which might not have been best for revealing investigated issue,Number of study objects,internal,S26
+L57,treatments may not have been extreme enough,Instrumentation,internal,S26
+L58,disturbed participants have longer answering times,Concentration impairment,internal,S27
+L59,same participants participated multiple times,Process conformance,internal,S27
+L60,differences in participant's knowledge,Programming experience,internal,S27
+L61,learning effects on later tasks,Learning effects,internal,S27
+L62,unfamiliarity with application domain or problem,Domain knowledge,internal,S28
+L63,no full control over programmers due to web-based conduct,Causal model,internal,S28
+L64,statistical associations do not imply causation,Causal model,internal,S29
+L65,learning effects due to pattern in problems,Learning effects,internal,S29
+L66,observer or Hawthorne effect,Hawthorne effect,internal,S29
+L67,social desirability threat to please the experimenter,Evaluation apprehension,internal,S29
+L68,combining models from two experiments with different demographics may lead to wrong conclusions,Sampling strategy,internal,S29
+L69,assumptions about quality of comments and identifiers for hypothesis testing,Content of study object,internal,S31
+L70,view comments in isolation,Snippet context,internal,S32
+L71,unknown effect of language familiarity,Programming language,internal,S32
+L72,no control for additional tool usage and breaks during experiment,Process conformance,internal,S33
+L73,influence of other source code attributes,Content of study object,internal,S34
+L74,participants might have perceived readability and comprehensibility as single concept,Instrumentation,internal,S34
+L75,question response influenced by previously seen code,Ordering,internal,S35
+L76,no fine-grained analysis of novices experience possible,Programming experience,internal,S37
+L77,programming experience as confounding factor,Programming experience,internal,S38
+L78,participants more proficient with different PL,Programming language,internal,S38
+L79,participants become tired as time passes,Fatigue,internal,S38
+L80,participants become less motivated as time passes,Motivation,internal,S38
+L81,participants could find later tasks easier,Learning effects,internal,S38
+L82,half of the ratings are inconsistent,Instrumentation,internal,S40
+L83,researcher bias due to being the only person reviewing code for comprehensibility,Subjectivity in evaluating data,internal,S42
+L84,programmers selected what to work on resulting in inconsistent difficulty levels,Difficulty,internal,S42
+L85,different languages used,Programming language,internal,S42
+L86,discussions in accompanying course might affect participants,Education,internal,S42
+L87,learning effect for experimental task,Learning effects,internal,S43
+L88,individual differences may have had an influence on variance in performance,Background (generic),internal,S43
+L89,longer exposure to C subset than to C++,Programming language,internal,S45
+L90,different problem sets used for imperative and OO cases without ability to compare them,Content of study object,internal,S45
+L91,sometimes variable names mirror parameter names,Content of study object,internal,S46
+L92,parameters may have been found more important due to correlation with comprehension question,Instrumentation,internal,S46
+L93,masked method comments and method name may lead to stronger effect attribution to variables,Content of study object,internal,S46
+L94,low number of participants,Sampling strategy,internal,S47
+L95,technical problems with eye-movement tracking,Technical issues,internal,S47
+L96,remote eye tracker may influence subjects' behavior and performance,Instrumentation,internal,S49
+L97,potential influence of affective state,Affective state,internal,S49
+L98,small number of subjects in each group,Sampling strategy,internal,S49
+L99,suvey context (extra credit) may have impacted responses,Motivation,internal,S50
+L100,lack of effort might have impacted style questions and comprehension questions differently,Motivation,internal,S50
+L101,low number of volunteers,Sampling strategy,internal,S51
+L102,unfamiliar environment specifically designed for experimental studies,Familiarity with study object and context,internal,S52
+L103,different group allocation for some participants who did not complete prior questionnaire,Process conformance,internal,S52
+L104,did not filter out wrong answers when analyzing response time,Construct operationalization,internal,S52
+L105,head/body movements and face expressions translate to noise when using EEG,Data quality,internal,S53
+L106,asking participants to constrain their movements and facial expressions lead to non-normal working conditions,Instrumentation,internal,S53
+L107,data collection in different labs worldwide may have led to uncontrolled covariates,Causal model,internal,S56
+L108,uncontrolled influence of source code style,Layout of study object,internal,S57
+L109,comprehension performance for a method might be affected by previous comprehension tasks within the same class,Learning effects,internal,S58
+L110,EEG readings susceptible to noise from uncontrolled muscle movements,Data quality,internal,S60
+L111,familiarity with study code as potential confounder,Familiarity with study object and context,internal,S61
+L112,untypical code lines added to the code to make it disguised might have led to wrong hypotheses,Content of study object,internal,S61
+L113,learning effect,Learning effects,internal,S63
+L114,possible information exchange among participants,Diffusion or imitation of treatments,internal,S63
+L115,eye tracker stopped tracking eye movements during experiment,Technical issues,internal,S64
+L116,possibility of over-positive and over-negative self-assessments of knowledge,Familiarity with tools,internal,S65
+L117,diffusion or imitation of treatments,Diffusion or imitation of treatments,internal,S65
+L118,unable to prevent students from taking notes during recall task,Process conformance,internal,S66
+L119,level of motivation as potential confounder,Motivation,internal,S66
+L120,authors assessment of code parts tied to persistent memory might differ from parts with actual ties,Subjectivity in evaluating data,internal,S66
+L121,snippets not representatitive of real-world programs,Size of study object,internal,S68
+L122,correcting eye tracking data can introduce bias,Data quality,internal,S68
+L123,experiment objectives unclear to participants,Task description / introduction to study,internal,S69
+L124,different research design than between-subjects could be beneficial to not have to rely on similar group characteristics,Background (generic),internal,S70
+L125,small sample size could threaten robustness of results,Sampling strategy,internal,S70
+L126,participants might have been confused by colored program at the beginning,Familiarity with study object and context,internal,S71
+L127,different character count for snippets as potential influence on comprehensibility,Content of study object,internal,S75
+L128,different syntactical units in snippets as potential influence on comprehensibility,Content of study object,internal,S75
+L129,low sample size,Sampling strategy,internal,S75
+L130,other factors may have affected comprehension,Causal model,internal,S79
+L131,maturation effects,Learning effects,internal,S82
+L132,fatigue effect,Fatigue,internal,S82
+L133,instrumentation effect if any instrument used varied over the experimental runs,Instrumentation,internal,S82
+L134,operationalization of comprehension based on semantic cues may not require much comprehension,Construct operationalization,internal,S84
+L135,identifying Brodmann areas requires a lot of expertise,Subjectivity in evaluating data,internal,S84
+L136,accustomization to different PL as covariate,Programming language,internal,S87
+L137,choice of programs as covariate,Content of study object,internal,S87
+L138,different subjects may have been at different experience levels,Programming experience,internal,S91
+L139,purpose of understanding code can impact mental model,Task procedure,internal,S91
+L140,use of different programming languages due to differences in subjects' familiarity,Programming language,internal,S92
+L141,intelligence was not controlled for,Intelligence,internal,S94
+L142,differences in familiarity with programming language among participants,Programming language,internal,S94
+L143,evaluation apprehension,Evaluation apprehension,internal,S94
+L144,hawthorne effect,Hawthorne effect,internal,S94
+L145,actual cognitive process of understanding code as confounder,Causal model,internal,S94
+L146,analysis of comprehension summaries conducted by single rater,Subjectivity in evaluating data,internal,S95
+L147,short snippet length,Size of study object,external,S1
+L148,isolated comprehension process,Task procedure,external,S1
+L149,homogeneous participant background,Background (generic),external,S1
+L150,homogeneous participant experience,Programming experience,external,S1
+L151,homogeneous participant culture,Culture,external,S1
+L152,no control for gender,Gender,external,S1
+L153,snippets from contest,Content of study object,external,S2
+L154,prohibited external resources,Supporting materials and resources,external,S2
+L155,untypical normalized code,Content of study object,external,S2
+L156,generalizability of university students,Sampling strategy,external,S2
+L157,specific population of german professionals,Sampling strategy,external,S3
+L158,limited to procedural and algorithmic problems,Content of study object,external,S3
+L159,use of meaningless identifier names,Content of study object,external,S3
+L160,no IDE,Code editor,external,S3
+L161,restricted focus due to online environment,Code editor,external,S3
+L162,limited generalizability due to no acclimatisation to circumstances,Familiarity with study object and context,external,S3
+L163,generalizability of students with low experience,Programming experience,external,S4
+L164,no complex PL features,Content of study object,external,S4
+L165,limited snippet number,Number of study objects,external,S4
+L166,unlimited time,Time limit,external,S4
+L167,limited number of participants,Sampling strategy,external,S5
+L168,limited PL to Java,Programming language,external,S5
+L169,participants form same country,Sampling strategy,external,S5
+L170,homogeneous educational background,Education,external,S5
+L171,participants with limited experience,Programming experience,external,S6
+L172,participants from same institution,Sampling strategy,external,S6
+L173,influence of prior training and experience,Programming experience,external,S8
+L174,small code snippets,Size of study object,external,S8
+L175,students as participants,Sampling strategy,external,S8
+L176,generalizability of synthetic code to production code,Content of study object,external,S9
+L177,participants from same companies,Sampling strategy,external,S9
+L178,generalizability to female programmers,Gender,external,S10
+L179,generalizability of selected tasks,Task procedure,external,S11
+L180,only undergraduate students,Sampling strategy,external,S11
+L181,exploratory analysis cannot be generalized without confirmatory analysis,Preliminarity of exploratory results,external,S11
+L182,usage of short tasks/snippets,Size of study object,external,S12
+L183,comprehension task with little to no code creation and maintenance,Task procedure,external,S12
+L184,generalizability to students and novice developers,Programming experience,external,S12
+L185,generalizability to larger sample,Sampling strategy,external,S15
+L186,generalizability to top-down comprehension strategy,Task procedure,external,S16
+L187,influence of specific study environment,Instrumentation,external,S17
+L188,volunteers generally being more motivated,Motivation,external,S20
+L189,participants were students,Sampling strategy,external,S20
+L190,comparability of participants with(out) project knowledge,Familiarity with study object and context,external,S20
+L191,artificial task scenario to develop tests for unfamiliar system,Task description / introduction to study,external,S20
+L192,influence of prior system knowledge,Familiarity with study object and context,external,S20
+L193,generalizability of task to first read code then answer questions subsequently,Task procedure,external,S20
+L194,generalizability of selected project with high code quality,Content of study object,external,S20
+L195,representativeness of selected code snippets,Snippet sampling strategy,external,S21
+L196,narrow group of professional developers,Sampling strategy,external,S21
+L197,use of undergraduate students,Sampling strategy,external,S21
+L198,alternative readability models available,Causal model,external,S21
+L199,representativeness of selected functions,Snippet sampling strategy,external,S24
+L200,representatitiveness of participants,Sampling strategy,external,S24
+L201,small number of participants,Sampling strategy,external,S25
+L202,generalizability to more experienced programmers than students,Programming experience,external,S25
+L203,generalizability to longer code snippets,Size of study object,external,S25
+L204,generalizability to large scale code,Size of study object,external,S27
+L205,generalizability to larger set of tasks,Number of study objects,external,S27
+L206,only German developers,Sampling strategy,external,S27
+L207,only Java code examples,Programming language,external,S27
+L208,representativeness of code snippets for large projects,Size of study object,external,S28
+L209,limited number of variables,Content of study object,external,S28
+L210,generalizability of identifier naming styles to other code entities,Content of study object,external,S28
+L211,representativeness of expertise,Programming experience,external,S28
+L212,potential change in participant's behavior due to knowing that it's an exerpiment,Hawthorne effect,external,S28
+L213,generalizability to people who learned to read differently than left-to-right,Culture,external,S29
+L214,participants were not professional programmers,Sampling strategy,external,S31
+L215,no typical real-world programming environment,Code editor,external,S31
+L216,experimentation with larger programs needed,Size of study object,external,S32
+L217,results may be different for more complex snippets,Difficulty,external,S33
+L218,generalizability to professional developers,Sampling strategy,external,S33
+L219,code snippets may not be representative for industrial scenario,Snippet sampling strategy,external,S34
+L220,participants may not be representative for industrial scenario,Sampling strategy,external,S34
+L221,low number of program commands,Content of study object,external,S35
+L222,generalizability to longer and more complex program,Size of study object,external,S36
+L223,generalizability of students as participants,Sampling strategy,external,S38
+L224,representativeness of code snippets,Snippet sampling strategy,external,S38
+L225,generalizability to other languages,Programming language,external,S39
+L226,generalizability to more realistic programs,Size of study object,external,S39
+L227,professional programmers may judge differently,Programming experience,external,S40
+L228,generalizability to other programming languages unclear,Programming language,external,S40
+L229,methods were small,Size of study object,external,S40
+L230,ignored interprocedural flows and OO design aspects,Content of study object,external,S40
+L231,generalizability to other projects and domains unclear,Content of study object,external,S40
+L232,single software system,Mono-operation bias,external,S41
+L233,system relatively small,Size of study object,external,S41
+L234,each method in selected system is not so long,Size of study object,external,S41
+L235,more complex code could not be evaluated,Difficulty,external,S41
+L236,generalizability to other people with different experience level unclear,Programming experience,external,S41
+L237,drastic improvements in writing readable code might not transfer to more experienced programmers,Programming experience,external,S42
+L238,generalizability of used task questionable,Task procedure,external,S44
+L239,programs were very small,Size of study object,external,S45
+L240,certain C features not used,Content of study object,external,S45
+L241,certain defining features of OO style not used,Content of study object,external,S45
+L242,unsure if expert programmers are similarly affected,Programming experience,external,S45
+L243,small number of methods,Number of study objects,external,S46
+L244,generalizability of actions performed on arrays and strings,Content of study object,external,S46
+L245,author bias in code snippet selection,Snippet sampling strategy,external,S46
+L246,only male subjects,Gender,external,S46
+L247,all participants from same company,Sampling strategy,external,S46
+L248,behavior during comprehension with other tools might be different,Code editor,external,S47
+L249,only used two programs,Number of study objects,external,S49
+L250,use of undergraduate students,Sampling strategy,external,S49
+L251,generalizability of code snippets to full programs,Size of study object,external,S50
+L252,limited to code within single function misses other structural issues,Content of study object,external,S50
+L253,code samples not representative of large software products,Size of study object,external,S51
+L254,use of undergraduate students with less programming exp. than professionals,Programming experience,external,S52
+L255,amount of code may limit generalizability,Size of study object,external,S52
+L256,complexity of task may limit generalizability,Difficulty,external,S52
+L257,manual creation of disciplined annotations may render disciplined code artificial,Content of study object,external,S52
+L258,used CPP only in C programs,Programming language,external,S52
+L259,generalizability of results to arbitrary software development tasks unclear,Task procedure,external,S53
+L260,generalizability limited to two comprehension tasks,Number of study objects,external,S56
+L261,generalizability limited to short intervention,Task procedure,external,S56
+L262,generalizability of beacons to other program types than the one under study,Mono-operation bias,external,S61
+L263,generalizability to larger programs,Size of study object,external,S62
+L264,generalizability to more experienced programmers,Programming experience,external,S62
+L265,replication with different population might lead to different results,Sampling strategy,external,S63
+L266,different questions/tasks might lead to different results,Instrumentation,external,S63
+L267,No generalizability to other variability techniques than preprocessor ifdefs,Content of study object,external,S64
+L268,more studies needed to generalize to industrial developers,Sampling strategy,external,S64
+L269,unaccounted effects possible when scaling to longer debugging tasks,Task procedure,external,S64
+L270,only static screen with program but no IDE or navigation provided,Code editor,external,S64
+L271,only considered C programs,Programming language,external,S65
+L272,population of Canadian students and post-docs (academic context) different from industrial settings,Sampling strategy,external,S65
+L273,selection bias in study objects thus results may not be applicable to other source code,Snippet sampling strategy,external,S66
+L274,reading code in context might yield different results,Snippet context,external,S66
+L275,selection bias in participants (convenience sample),Sampling strategy,external,S66
+L276,generalizability of students,Sampling strategy,external,S68
+L277,small sample size,Sampling strategy,external,S68
+L278,generalizability of mechanical turk users and students to all developers,Sampling strategy,external,S69
+L279,generalizability to arbitrary programming and testing tasks,Task procedure,external,S69
+L280,tests produced by other tools may lead to different results,Instrumentation,external,S69
+L281,unknown generalizability due to unknown influences of real-world factors,Causal model,external,S73
+L282,generalizability of short programs,Size of study object,external,S74
+L283,generalizability to other programming languages,Programming language,external,S75
+L284,generalizability to non-novices,Programming experience,external,S75
+L285,generalizability of student subjects to professional programmers,Sampling strategy,external,S79
+L286,small programs,Size of study object,external,S80
+L287,generalizability to highly experienced blind programmers,Ability,external,S80
+L288,generalizability to larger code fragments,Size of study object,external,S82
+L289,unlikely representativeness of students for population of last year computer science students,Sampling strategy,external,S82
+L290,generalizability to population of professional software engineers,Sampling strategy,external,S82
+L291,work limited to single programming language,Programming language,external,S83
+L292,work limited to unexperienced programmers,Programming experience,external,S83
+L293,generalizability to program comprehension in different settings,Code environment (generic),external,S84
+L294,operationalization of comprehension captures only one aspect,Mono-method bias,external,S84
+L295,generalizability to other PLs,Programming language,external,S89
+L296,limited number of study objects with treatment under investigation,Number of study objects,external,S89
+L298,different object-oriented language may lead to different results,Programming language,external,S91
+L299,generalizability to other types of dyslexia,Mono-operation bias,external,S94
+L300,use of potentially known algorithms,Familiarity with study object and context,construct,S1
+L301,code comments chosen by researchers,Content of study object,construct,S4
+L302,gaps for cloze questions too artificial,Instrumentation,construct,S4
+L303,results might be different for different combination of measures (formula for time+correctness),Construct operationalization,construct,S5
+L304,formulation of appropriate comprehension questions,Instrumentation,construct,S8
+L305,use of web-based application for task completion,Instrumentation,construct,S8
+L306,uncertainty about whether time and accuracy measure code understanding,Construct operationalization,construct,S9
+L308,"unknown covariates (mentioned: personality, stress, time of day)",Causal model,construct,S12
+L309,binary classification of task difficulty,Difficulty,construct,S12
+L310,task difficulty assessment is subjective,Difficulty,construct,S12
+L311,operationalization of eye-tracking precision could have been more reliable and accurate,Data quality,construct,S17
+L312,common post-processing correction of eye-tracking data not applied,Data quality,construct,S17
+L313,not previously used measures for code comprehension,Construct operationalization,construct,S20
+L314,results depend on quality of manual evaluation,Subjectivity in evaluating data,construct,S20
+L315,limited 5-line window might have affected willigness of participants to look at different code sections,Instrumentation,construct,S20
+L316,influence of other code aspects than the ones investigated,Content of study object,construct,S24
+L317,misinterpretation of survey tasks/questions,Instrumentation,construct,S27
+L318,online survey did not allow for clarification,Task description / introduction to study,construct,S27
+L319,author's response assessment might have changed over time when range of responses became better known,Subjectivity in evaluating data,construct,S29
+L320,adequacy of multiple-choice testing for program understanding,Instrumentation,construct,S31
+L321,adequacy of subjective scoring for program understanding,Subjectivity in evaluating data,construct,S31
+L322,no mathematical treatment of program correctness,Task description / introduction to study,construct,S33
+L323,no formal specification of tasks might influence clarity,Task description / introduction to study,construct,S33
+L324,uncontrolled influence of other code characteristics,Content of study object,construct,S33
+L325,presentation of code can have an influence,Layout of study object,construct,S33
+L326,answer guessing for multiple-choice task possible,Instrumentation,construct,S33
+L327,uncertainty about influence of error types in incorrect code versions,Content of study object,construct,S33
+L328,human judgment is subjective therefor used measure might not have been most appropriate one,Instrumentation,construct,S34
+L329,validity issues or inappropriate item difficulity of some questions,Instrumentation,construct,S35
+L330,recorded gaze location appeared too low or too high despite calibrating,Data quality,construct,S37
+L331,code snippets supposed to have same difficulty but rating affected by subjectivity of researchers,Difficulty,construct,S38
+L332,different results for different code snippets possible,Snippet sampling strategy,construct,S38
+L333,paired comparison may produce inconsistent rankings,Task procedure,construct,S40
+L334,questionnaires are subjective,Instrumentation,construct,S40
+L335,no reference implementation for some of the used metrics may have led to misinterpreted details,Instrumentation,construct,S40
+L336,no rating criteria provided to participants may have lead to different interpretations,Instrumentation,construct,S40
+L337,think aloud might not mirror process of reading to oneselve,Construct operationalization,construct,S42
+L338,experiment failed to ask questions about static contents of classes which was an essential difference between the two treatments,Instrumentation,construct,S45
+L339,areas of interest may span over two successive instances,Instrumentation,construct,S49
+L340,other geometric shapes than rectangulars around code may lead to different results,Instrumentation,construct,S49
+L341,separate questions for readability and style may have biased students to give different responses to each question,Instrumentation,construct,S50
+L342,comprehension task of providing outputs to specific inputs ignores other measures of comprehension,Mono-operation bias,construct,S50
+L343,EEG device chosen for experiment cannot replace high accuracy of more expensive devices,Instrumentation,construct,S53
+L344,Loss of fixation data in eye tracking data collection,Data consistency,construct,S55
+L345,self-rated expertise might be biased,Programming experience,construct,S56
+L346,Performance might be affected by different IDE environment preferences not avaiable to the participants,Code editor,construct,S58
+L347,single author did manual evaluation of comprehension artifacts,Subjectivity in evaluating data,construct,S58
+L348,unstable and unprecise eyetracking data for majority of participants,Data quality,construct,S59
+L349,low cost off-the-shelf device for measuring EEG readings,Instrumentation,construct,S60
+L350,possibility of other influences on the results resulting from the undertaken refactorings,Causal model,construct,S63
+L351,possible mistakes in the oracle,Subjectivity in evaluating data,construct,S65
+L352,choices to break lines into chunks were subjective to present data at different points in the study,Subjectivity in evaluating data,construct,S68
+L353,using a different comprehension test might change results,Instrumentation,construct,S69
+L354,pupillometry can become inadequate due to difficulties in controlling lighting conditions and distances from the subject to the eye-tracker,Instrumentation,construct,S75
+L355,tested participants' responses on a limited number of questions,Instrumentation,construct,S89
+L356,not incorporated all categories of underlying cognitive model for comprehension,Causal model,construct,S92
+L357,questionnaire containing more than one comprehension question would produce more accurate measure of comprehension,Instrumentation,construct,S93
+L358,low spatial resolution of eye tracker in certain cases,Data quality,construct,S94
+L359,results depending on ML technique and parameters,ML data and model,conclusion,S5
+L360,phsysiological analysis conducted on a single area of the screen,Instrumentation,conclusion,S17
+L361,being careful with being too conservative in hypotheses testing due to small sample size,Sampling strategy,conclusion,S25
+L362,more information with more homogeneous question set,Instrumentation,conclusion,S35
+L363,diverse range of participant experience,Programming experience,conclusion,S38
+L365,time taken was averaged over correct and incorrect responses although distinct cognitive processes may occur in each condition,Construct operationalization,conclusion,S43
+L366,possibility of dialog between observer and subject might reveal/lead away from solution,Interaction of experimenter and subject,conclusion,S46
+L367,information revealed along the way requires flexible thinking,Ability,conclusion,S46
+L368,disagreements among experts for some of the topics could mean that distinctions are not as relevant,Subjectivity in evaluating data,conclusion,S50
+L369,for some comprehension questions accuracy was near ceiling,Instrumentation,conclusion,S50
+L370,more complex analysis needs to be carried out to confirm conclusions,Preliminarity of exploratory results,conclusion,S51
+L371,unexplained variance in EEG readings,Data Consistency,conclusion,S60
+L374,failed to elicit a rich view of the mental representation of the object-oriented subjects,Instrumentation,conclusion,S91
+L375,poor distribution of data due to low number of participants,Sampling strategy,conclusion,S93
+L376,not all gaze recordings achieved a 100% sampling rate,Data consistency,conclusion,S94
+L377,great number of correlations on small sample size,Sampling strategy,conclusion,S95
+L378,high data drop-out for fMRI and eye tracking in the proposed methodology,Data quality,other,S17
+L379,some participants did not finish all trials,Mortality and Study-object coverage,internal,S37
+L381,chosen programming language not ideal for OO with novices,Programming language,internal,S92
+L382,only studied subset of possible code presentation enhancements,Causal model,external,S83

@@ -1,0 +1,9 @@
+measure combination,count
+correctness + time,23
+correctness + subjective rating,7
+time + subjective rating,1
+subjective rating + other,1
+physiological + subjective rating,1
+physiological + correctness,1
+physiological + other,1
+physiological + time,1

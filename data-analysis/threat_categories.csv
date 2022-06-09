@@ -1,0 +1,53 @@
+Category,# labels,# distinct papers,is adopted from Siegmund & Schumann (2015),category description
+Color blindness,0,0,yes,as described by Siegmund and Schumann.
+Culture,2,2,yes,as described by Siegmund and Schumann.
+Gender,3,3,yes,as described by Siegmund and Schumann.
+Intelligence,1,1,yes,as described by Siegmund and Schumann.
+Background (generic),5,5,no,"an individual characteristic of the study participant that is not specified but is due to his or her background, and threatens an aspect of validity."
+Ability,3,3,yes,as described by Siegmund and Schumann.
+Domain Knowledge,1,1,yes,as described by Siegmund and Schumann.
+Education,4,3,yes,as described by Siegmund and Schumann.
+Familiarity with study object and context,7,6,yes,as described by Siegmund and Schumann.
+Familiarity with tools,3,3,yes,as described by Siegmund and Schumann.
+Programming experience,23,21,yes,as described by Siegmund and Schumann.
+Reading time,0,0,yes,as described by Siegmund and Schumann.
+Fatigue,5,5,yes,as described by Siegmund and Schumann.
+Motivation,5,4,yes,as described by Siegmund and Schumann.
+Treatment preference,0,0,yes,as described by Siegmund and Schumann.
+Stress,1,1,no,increased physical or psychological tension of the study participant that threatens an aspect of validity.
+Affective state,1,1,no,a temporary emotional state that threatens an aspect of validity.
+Sampling strategy,43,36,yes,"general characteristics of the sampling strategy that threaten an aspect of validity, but for which, for example, it is not specified in more detail which individual characteristic of the participants might be relevant. Category is closest to what Siegmund and Schumann describe as Selection."
+Content of study object,35,20,yes,as described by Siegmund and Schumann.
+Programming language,18,17,yes,as described by Siegmund and Schumann. Renamed from Language to be more precise.
+Layout of study object,2,2,yes,as described by Siegmund and Schumann.
+Size of study object,22,21,yes,as described by Siegmund and Schumann.
+Number of study objects,7,7,no,quantity of selected study objects threatens an aspect of validity.
+Snippet sampling strategy,7,6,no,"general characteristics of the selected code snippets that threaten an aspect of the validity, but for which, for example, it is not specified in more detail which concrete characteristics might be relevant."
+Code editor,7,6,no,characteristics of the editor/IDE used in the experiment that threaten an aspect of validity. See also 'Familiarity with study object and context' for a related category with different perspective.
+Supporting materials and resources,1,1,no,additional materials and resources used by a participant in the code comprehension task that threaten any aspect of validity.
+Snippet context,2,2,no,"contextual information about the project of which a code snippet to be understood is taken from, and that threatens an aspect of validity."
+Code environment (generic),1,1,no,"general characteristics of the setting in which a participant has to understand code that threatens an aspect of validity, but which are not specificied in more detail."
+Difficulty,8,7,yes,difficulty of the task threatens an aspect of validity. Category is closest to what Siegmund and Schumann describe as Task.
+Time limit,2,2,yes,as described by Siegmund and Schumann. Renamed from 'Time pressure' to broaden the scope a bit.
+Task procedure,14,13,no,"task procedure impacts the process of or performance in comprehending code, which threatens an aspect of validity."
+Task description / introduction to study,5,4,no,task description or general introduction to the study threatens an aspect of validity.
+Instrumentation,39,27,yes,as described by Siegmund and Schumann.
+Mono-method bias,1,1,yes,as described by Siegmund and Schumann.
+Mono-operation bias,4,4,yes,as described by Siegmund and Schumann.
+Construct operationalization,9,9,no,"concrete way the construct of code comprehension is operationalized threatens an aspect of validity. Authors might see a slight mismatch between the construct's definition and its operationalization, or even question if their operationalization makes sense at all."
+Learning effects,12,11,yes,as described by Siegmund and Schumann.
+Ordering,1,1,yes,as described by Siegmund and Schumann.
+Interaction of experimenter and subject,1,1,yes,interactions of experimenter and subject that threaten an aspect of validity. Includes experimenter expectancies and what Siegmund and Schumann describe as Rosenthal effect.
+Evaluation apprehension,3,3,yes,as described by Siegmund and Schumann.
+Hawthorne effect,3,3,yes,as described by Siegmund and Schumann.
+Process conformance,5,5,yes,as described by Siegmund and Schumann.
+Technical issues,3,3,yes,as described by Siegmund and Schumann.
+Causal model,15,15,no,"general threats to the assurance of a causal relationship, e.g. due to uncertainty about confounding factors or uncontrolled experimental setting."
+Concentration impairment,2,2,no,"concentration impairment of a participant while solving the experiment tasks, e.g. due to interruptions or uncontrolled outside noise, that threatens an aspect of validity."
+Diffusion or imitation of treatments,2,2,no,potential information exchange among participants of different groups threatens an aspect of validity.
+Data consistency,4,4,yes,as described by Siegmund and Schumann.
+Mortality and Study-object coverage,2,2,yes,as described by Siegmund and Schumann. We combined the two originally separate categories because they are similar in description and neither is frequent in our sample.
+Subjectivity in evaluating data,16,14,no,researchers' subjectivity in labeling and evaluating collected data threatens an aspect of validity. Includes error-proneness of manual analysis steps.
+ML data and model,2,1,no,quality issues and bias in machine learning training data or models that threaten an aspect of validity.
+Data quality,12,10,no,quality issues in the collected study data that threaten an aspect of validity.
+Preliminarity of exploratory results,2,2,no,general circumstance that results are only preliminary threatens an aspect of validity.

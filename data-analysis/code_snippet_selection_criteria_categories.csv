@@ -1,0 +1,19 @@
+Category,Label,# of studies,Description
+experiment design,balance between simplicity and complexity,42,"simple/small enough to be understood in a reasonable time, but complex/large enough to require some effort and to be realistic"
+experiment design,homogeneity concerning potential confounders,29,"minimize the influence of unrelated factors such as naming styles, LoC, line length, formatting, or indentation"
+experiment design,self-contained functionality,19,"no additional context or external functions necessary, e.g., a function, static method, main method, test class, etc. with a determinable purpose"
+experiment design,heterogeneity concerning the targeted constructs,18,"differences in code metrics, control structures, method chains, comments, etc. to increase variance and generalizability"
+experiment design,requires bottom-up comprehension,15,"obfuscate identifiers, remove beacons and comments, etc. to force line-by-line understanding"
+experiment design,no unnecessary cognitive load,12,"small inputs, simple arithmetic, no recursion, no non-deterministic or non-portable code, low computational complexity, no advanced OO, etc."
+experiment design,small enough to avoid extensive scrolling,5,"code fits completely on screen, especially important for, e.g., fMRI or eye-tracking studies"
+generalizability,taken/adapted from existing studies,21,(partially) using/adapting snippets from existing studies against the results can be compared
+generalizability,real-world code,19,taken/adapted from open-source or industry code
+generalizability,thematic heterogeneity,13,"a different algorithm, domain, etc. per snippet to avoid learning effects or to increase generalizability"
+generalizability,random sampling,5,snippets are randomly drafted from a pool
+participants,novice friendliness,25,"common beginner programming tasks, typical text book problems or algorithms known to students such as shell sort or binary search"
+participants,no special domain knowledge necessary for understanding,10,"avoid specific domains to reduce bias due to participant (in)experience, use familiar use cases like Pacman"
+participants,written in a popular/familiar programming language,9,"mainstream language or familiar to participants, e.g., Java, C, Python"
+participants,no extensive usage of (rare) APIs,4,avoid specific APIs to reduce bias due to extensive language experience
+participants,never seen before by participants,3,self-created/adapted to be new to participants
+participants,code written by participants,1,participants needed to be familiar with the code and should have written it themselves
+,n/a,6,not explicitly specified in the paper

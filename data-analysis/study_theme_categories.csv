@@ -1,0 +1,12 @@
+Category,# of Mentions,# of Labels,Description (One study goal is...)
+semantic cues,30,3,to analyze how semantic information in source files (e.g. identifiers or comments) influence comprehension.
+developer characteristics,30,5,to analyze characteristics of developers in the context of comprehension (e.g. experience or code familiarity).
+psycho-physiological measures,29,7,to evaluate the feasibility of psycho-physiological measures collected from developers (e.g. fMRI or EEG) as proxies for comprehension.
+code structure,28,10,to analyze how structural attributes of source files (e.g. control structures or code size) influence comprehension.
+code evaluation,10,2,to analyze or provide ways to evaluate code understandability (e.g. metrics or self-assessment).
+programming paradigms,9,4,to analyze and compare programming paradigms w.r.t. comprehension (e.g. object orientation or reactive programming).
+comprehension support,9,4,to analyze or provide ways to better understand code without changing it (e.g. code browsing techniques or diagrams).
+visual characteristics,8,3,to analyze the influence of visual code characteristics on comprehension (e.g. indentation or syntax highlighting).
+code improvement,4,3,to analyze or provide ways to change existing code towards better understandability (e.g. methods or tools).
+test code,3,1,to analyze or improve test code w.r.t. comprehension.
+mental models,3,1,to analyze how developers mentally represent code and how this influences comprehension.

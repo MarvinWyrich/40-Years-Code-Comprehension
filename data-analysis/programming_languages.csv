@@ -1,0 +1,96 @@
+ID,PL,# of PLs
+S1,Java,1
+S2,C,1
+S3,C#,1
+S4,Java,1
+S5,Java,1
+S6,Java,1
+S7,C,1
+S8,Scala,1
+S9,JavaScript,1
+S10,C,1
+S11,Java,1
+S12,C#,1
+S13,n/a,1
+S14,n/a,1
+S15,Java,1
+S16,C,1
+S17,Java,1
+S18,Java,1
+S19,Java,1
+S20,Java,1
+S21,Java,1
+S22,C,1
+S23,C++,1
+S24,"C, C++, Java",3
+S25,Java,1
+S26,"Java, C",2
+S27,Java,1
+S28,Java,1
+S29,"C++, Java",2
+S31,Modula-2,1
+S79,Pascal,1
+S76,Pascal,1
+S33,Java,1
+S34,Python,1
+S35,Java,1
+S61,Pascal,1
+S37,Java,1
+S38,Java,1
+S39,Python,1
+S40,Java,1
+S41,Java,1
+S42,"C, C++, Java, Ruby, C#, JavaScript, Objective C, Python, Dart",9
+S43,Java,1
+S32,PL/I,1
+S45,C++,1
+S46,Java,1
+S47,Java,1
+S48,Cobol,1
+S49,n/a,1
+S50,Java,1
+S51,Java,1
+S52,C,1
+S53,C,1
+S54,Java,1
+S55,C,1
+S56,Java,1
+S57,Java,1
+S58,Java,1
+S59,n/a,1
+S60,Java,1
+S44,"Fortran, Cobol",2
+S62,C++,1
+S63,Java,1
+S64,Java,1
+S65,C,1
+S66,Java,1
+S71,Pascal,1
+S68,C++,1
+S69,Java,1
+S70,C#,1
+S72,Pascal,1
+S67,Pascal,1
+S74,"Pascal, Algol",2
+S90,"Pascal, Basic",2
+S75,Processing,1
+S36,Pascal,1
+S77,"Java, Delphi, C#, C++",4
+S78,n/a,1
+S30,Fortran,1
+S80,n/a,1
+S81,pseudocode,1
+S82,Java,1
+S83,C,1
+S84,Java,1
+S85,n/a,1
+S86,Java,1
+S87,"Python, C++",2
+S88,C,1
+S89,Java,1
+S73,Fortran,1
+S91,"Pascal, C++",2
+S92,"Visual Basic, Java",2
+S93,J#,1
+S94,Java,1
+S95,Java,1

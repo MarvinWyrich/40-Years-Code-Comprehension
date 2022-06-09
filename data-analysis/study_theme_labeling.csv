@@ -1,0 +1,96 @@
+ID,study category (as extracted),SC: # of Relationships,SC: Primary Relationship Type,SC: Labels,SC: # of Labels
+S1,(RQ1) code comprehension <--> fMRI (brain activation regions); (RQ2) source code complexity --> code comprehension; (RQ3) programming experience --> code comprehension,3,correlation with comprehension,"fMRI, code metrics, experience",3
+S2,"""atoms of confusion"" --> code comprehension",1,impact on comprehension,smells & antipatterns,1
+S3,"""identifier naming styles"" (length and semantics) --> code comprehension",1,impact on comprehension,identifier naming,1
+S4,"""code comments and method chains"" --> code comprehension",1,impact on comprehension,"comments, method chains",2
+S5,developer characteristics --> code comprehension (RQ0); snippet characteristics --> code comprehension (RQ0 + RQ3); metrics <--> code comprehension (RQ1 + RQ2),3,correlation with comprehension,"code metrics, comments, code familiarity, experience",4
+S6,metric <--> code comprehension,1,correlation with comprehension,code metrics,1
+S7,"side effects (""auto-increment and autodecrement operators"") --> code comprehension",1,impact on comprehension,operators,1
+S8,reactive programming constructs --> code comprehension,1,impact on comprehension,reactive programming,1
+S9,"control structures, conditionals, and idioms --> code comprehension; age, gender, education, experience --> code comprehension; self assessment <--> code comprehension",3,impact on comprehension,"control structures, code familiarity, age, gender, experience, self-assessment",6
+S10,code comprehension <--> fMRI (brain activation regions),1,correlation with comprehension,fMRI,1
+S11,measures of programming experience <--> code comprehension,1,correlation with comprehension,experience,1
+S12,"code comprehension <--> psycho-physiological measures (eye tracking, EDA, and EEG)",1,correlation with comprehension,"eye tracking, EDA, EEG",3
+S13,code comprehension <--> brain blood flow (near infrared spectroscopy (NIRS)); appearance of variables and control stuctures --> code comprehension,2,correlation with comprehension,"NIRS, control structures, variable placement",3
+S14,"code comprehension <--> psycho-physiological measures (eye tracking, EEG)",1,correlation with comprehension,"eye tracking, EEG",2
+S15,"""atoms of confusion"" --> code comprehension",2,correlation with comprehension,"experience, EEG",2
+S16,code comprehension <--> brain blood flow (near infrared spectroscopy (NIRS)),1,correlation with comprehension,NIRS,1
+S17,"code comprehension <--> psycho-physiological measures (fMRI, eye tracking)",1,correlation with comprehension,"fMRI, eye tracking",2
+S18,code comprehension <--> psycho-physiological measures (heart rate variability (HRV)),1,correlation with comprehension,HRV,1
+S19,code comprehension <--> brain activity (EEG),1,correlation with comprehension,EEG,1
+S20,developer characteristics --> code comprehension (test suites),1,impact on comprehension,"age, gender, experience, code familiarity, test code",5
+S21,lambda expressions --> code comprehension,1,impact on comprehension,functional programming,1
+S22,misunderstanding patterns --> code comprehension,1,impact on comprehension,smells & antipatterns,1
+S23,code comprehension <--> brain activity (EEG),1,correlation with comprehension,EEG,1
+S24,"identifier design (single letters, abbreviations, full words) --> code comprehension",1,impact on comprehension,identifier naming,1
+S25,code indentation level --> code comprehension,1,impact on comprehension,indentation,1
+S26,single letter variables --> code comprehension,1,impact on comprehension,identifier naming,1
+S27,code comments --> code comprehension,1,impact on comprehension,comments,1
+S28,identifier naming styles (short vs. descriptive compound) --> code comprehension,1,impact on comprehension,identifier naming,1
+S29,identifier casing style (camelCase vs. underscore) --> code comprehension,1,impact on comprehension,identifier naming,1
+S30,code documentation/comments and code indentation --> code comprehension,1,impact on comprehension,"indentation, comments",2
+S31,comments and identifier naming styles --> code comprehension,1,impact on comprehension,"comments, identifier naming",2
+S32,procedure format and comments --> code comprehension,1,impact on comprehension,"comments, procedure usage",2
+S33,"readability rules (minimize nesting, avoid do-while) and snippet correctness --> code comprehension",1,impact on comprehension,"control structures, nesting depth",2
+S34,"code size, identifier length, and code comments --> code comprehension",1,impact on comprehension,"code size, identifier naming, comments",3
+S35,code metrics (7) <--> code comprehension,1,correlation with comprehension,code metrics,1
+S36,indentation style --> code comprehension,1,impact on comprehension,indentation,1
+S37,programming experience --> code comprehension,1,impact on comprehension,experience,1
+S38,fNIRS and eye tracking data <--> code comprehension (RQ1); poor source code lexicon and readability --> code comprehension (RQ2-8),2,impact on comprehension,"NIRS, eye tracking, identifier naming, smells & antipatterns",4
+S39,"code comprehension <--> psycho-physiological measures (eye tracking, EEG)",2,impact on comprehension,"code formatting, control structures, procedure usage, variable placement, object-oriented programming, experience",6
+S40,complexity metrics <--> code comprehension,1,correlation with comprehension,code metrics,1
+S41,complexity metrics <--> code comprehension,1,correlation with comprehension,code metrics,1
+S42,code readability testing (method) --> code comprehension,1,impact on comprehension,proposed method,1
+S43,control structure diagram --> code comprehension,1,impact on comprehension,diagrams,1
+S44,mental knowledge representations (text structure knowledge & plan knowledge) --> code comprehension,1,impact on comprehension,mental models,1
+S45,programming paradigms (imperative vs. OO) --> code comprehension,1,impact on comprehension,"imperative programming, object-oriented programming",2
+S46,local variable names and parameter names --> code comprehension,1,impact on comprehension,identifier naming,1
+S47,progress in time --> code comprehension,1,impact on comprehension,code familiarity,1
+S48,conditional statements & looping constructs --> code comprehension; code familiarity (over time) --> code comprehension,2,impact on comprehension,"control structures, code familiarity",2
+S49,code regularity (repetition of specific code patterns) --> code comprehension,1,impact on comprehension,control structures,1
+S50,programming style (code structure and control flow) --> code comprehension; subjective estimation <--> code comprehension (RQ3),2,impact on comprehension,"control structures, self-assessment",2
+S51,"psycho-physiological measures (eye tracking, HRV, pupillography) <--> code comprehension",1,correlation with comprehension,"eye tracking, HRV, pupillography",3
+S52,preprocessor annotation types (disciplined vs. undisciplined) --> code comprehension,1,impact on comprehension,preprocessor annotations,1
+S53,EEG data <--> code comprehension,1,correlation with comprehension,EEG,1
+S54,EEG data <--> (task difficulty of) code comprehension,1,correlation with comprehension,EEG,1
+S55,RQ1: scan time (time for initially reading the complete snippet in mostly sequential fashion) --> code comprehension; RQ2: experience --> code comprehension,2,impact on comprehension,"code browsing, experience",2
+S56,eye movement modeling examples (EMME) --> code comprehension,1,impact on comprehension,proposed method,1
+S57,view restrictions (only allowing foveal vision) --> code comprehension,1,impact on comprehension,code browsing,1
+S58,method size --> code comprehension,1,impact on comprehension,code size,1
+S59,eye tracking data (pupil dilation and blink rates) <--> code comprehension,1,correlation with comprehension,eye tracking,1
+S60,EEG data <--> code comprehension,1,correlation with comprehension,EEG,1
+S61,"beacons (tested for different experience, program familiarity, and wrongly placed beacons) --> code comprehension",1,impact on comprehension,beacons,1
+S62,code navigation methods --> code comprehension,1,impact on comprehension,code browsing,1
+S63,test smells --> code comprehension (RQ3),1,impact on comprehension,"test code, smells & antipatterns",2
+S64,variability (#ifdefs) --> code comprehension,1,impact on comprehension,preprocessor annotations,1
+S65,"RQ1: contextual information --> code comprehension; RQ2: identifier term characteristics (full English words, acronyms, abbreviations) --> code comprehension; RQ3: participant background --> code comprehension",3,impact on comprehension,"code browsing, identifier naming, experience, domain familiarity",4
+S66,identifier length and familiarity --> code comprehension,1,impact on comprehension,"identifier naming, code familiarity",2
+S67,internal procedures and comments --> code comprehension,1,impact on comprehension,"procedure usage, comments",2
+S68,experience level --> code comprehension,1,impact on comprehension,experience,1
+S69,"structural, logical complexity, and density code factors --> (test) code comprehension; EvoSuite improvements (their tool) --> (test) code comprehension",2,impact on comprehension,"test code, proposed tool, indentation, code size, identifier naming, smells & antipatterns, comments, control structures, code metrics, object-oriented programming",10
+S70,syntax highlightling (colored vs. black & white) --> code comprehension,1,impact on comprehension,syntax highlighting,1
+S71,syntax highlightling (two different color schemes plus black & white) --> code comprehension,1,impact on comprehension,syntax highlighting,1
+S72,code line being beacon (typical indicator) --> code comprehension,1,impact on comprehension,beacons,1
+S73,mnemonic variable names --> code comprehension (exp. 1),1,impact on comprehension,identifier naming,1
+S74,program being plan-like (stereotypic sequences) --> code comprehension (s1); program being plan-like and follow discourse rules --> code comprehension (s2),2,impact on comprehension,mental models,1
+S75,structural and textual readability features --> code comprehension,1,impact on comprehension,"code formatting, identifier naming",2
+S76,variable and procedure naming x expertise --> code comprehension,1,impact on comprehension,"identifier naming, experience",2
+S77,BLOOM and SOLO taxonomy levels <--> code comprehension,1,correlation with comprehension,experience,1
+S78,cognitive weight to control structures <--> code comprehension,1,correlation with comprehension,control structures,1
+S79,recursive vs. iterative code constructs --> code comprehension,1,impact on comprehension,recursion,1
+S80,auditory cues --> code comprehension (exp 2),1,impact on comprehension,auditory cues,1
+S81,flowcharts vs. pseudocode --> code comprehension,1,impact on comprehension,diagrams,1
+S82,"""refactor to understand"" pattern --> code comprehension; degree of coupling --> code comprehension",2,impact on comprehension,"refactoring, code metrics",2
+S83,printed source code appearance (typography...) --> code comprehension,1,impact on comprehension,visual code presentation,1
+S84,"brain activation areas <--> code comprehension (RQ2); beacons (identifiers, layout) --> code comprehension (RQ3)",2,correlation with comprehension,"fMRI, beacons",2
+S85,expertise --> code comprehension; code line content (beacons) --> code comprehension,2,impact on comprehension,"experience, beacons",2
+S86,time series changes of EEG and eye movement <--> code comprehension,1,correlation with comprehension,"EEG, eye tracking",2
+S87,programming language (python vs. c++) --> code comprehension; novices vs. non-novices --> code comprehension,2,impact on comprehension,"programming language, experience",2
+S88,eye tracking metrics <--> code comprehension,1,correlation with comprehension,eye tracking,1
+S89,visual code presentation (highlighting vs. enhanced presentations) --> code comprehension,1,impact on comprehension,visual code presentation,1
+S90,"code notations (procedural x cues, declarative x cues) --> code comprehension",1,impact on comprehension,mental models,1
+S91,object-oriented vs. procedural --> code comprehension,1,impact on comprehension,"object-oriented programming, imperative programming",2
+S92,class structure (availability) --> code comprehension,1,impact on comprehension,object-oriented programming,1
+S93,"naming styles, documentation --> code comprehension",1,impact on comprehension,"identifier naming, comments",2
+S94,dyslexia --> code comprehension,1,impact on comprehension,dyslexia,1
+S95,visual strategy used to comprehend code <--> code comprehension,1,correlation with comprehension,eye tracking,1

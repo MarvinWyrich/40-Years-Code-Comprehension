@@ -1,0 +1,44 @@
+Label,# of Mentions,Category
+identifier naming,16,semantic cues
+experience,15,developer characteristics
+comments,10,semantic cues
+control structures,9,code structure
+eye tracking,9,psycho-physiological measures
+EEG,9,psycho-physiological measures
+code metrics,8,code evaluation
+code familiarity,6,developer characteristics
+age,6,developer characteristics
+smells & antipatterns,5,code structure
+object-oriented programming,5,programming paradigms
+code browsing,4,comprehension support
+fMRI,4,psycho-physiological measures
+beacons,4,semantic cues
+indentation,4,visual characteristics
+procedure usage,3,code structure
+code size,3,code structure
+mental models,3,mental models
+NIRS,3,psycho-physiological measures
+test code,3,test code
+self-assessment,2,code evaluation
+proposed method,2,code improvement
+variable placement,2,code structure
+preprocessor annotations,2,code structure
+visual code presentation,2,comprehension support
+diagrams,2,comprehension support
+gender,2,developer characteristics
+imperative programming,2,programming paradigms
+HRV,2,psycho-physiological measures
+syntax highlighting,2,visual characteristics
+code formatting,2,visual characteristics
+proposed tool,1,code improvement
+refactoring,1,code improvement
+method chains,1,code structure
+operators,1,code structure
+nesting depth,1,code structure
+recursion,1,code structure
+auditory cues,1,comprehension support
+domain familiarity,1,developer characteristics
+reactive programming,1,programming paradigms
+functional programming,1,programming paradigms
+EDA,1,psycho-physiological measures
+pupillography,1,psycho-physiological measures

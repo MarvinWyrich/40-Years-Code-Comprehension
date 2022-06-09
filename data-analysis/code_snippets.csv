@@ -1,0 +1,96 @@
+ID,allocation design,#snippets per participant,snippet pool size,snippet source,# of sources,snippet criteria,# of criteria
+S1,within-subject,24,24,self-made,1,"requires bottom-up comprehension, thematic heterogeneity, no extensive usage of (rare) APIs, no unnecessary cognitive load",4
+S10,within-subject,6,6,"text books, contests",2,"balance between simplicity and complexity, written in a popular/familiar programming language, no unnecessary cognitive load",3
+S11,within-subject,10,10,"text books, open-source",2,"written in a popular/familiar programming language, novice friendliness",2
+S12,within-subject,8,8,self-made,1,"balance between simplicity and complexity, small enough to avoid extensive scrolling",2
+S13,within-subject,n/a,n/a,n/a,n/a,n/a,0
+S14,within-subject,27,31,"previous studies, self-made",2,"taken/adapted from existing studies, novice friendliness",2
+S15,within-subject,36,36,"previous studies, self-made",2,"taken/adapted from existing studies, novice friendliness, no unnecessary cognitive load, self-contained functionality, requires bottom-up comprehension",5
+S16,within-subject,6,6,self-made,1,heterogeneity concerning the targeted constructs,1
+S17,within-subject,4,5,previous studies,1,"taken/adapted from existing studies, balance between simplicity and complexity, no unnecessary cognitive load",3
+S18,within-subject,3,3,self-made,1,"heterogeneity concerning the targeted constructs, homogeneity concerning potential confounders, balance between simplicity and complexity, no unnecessary cognitive load",4
+S19,within-subject,3,3,self-made,1,n/a,0
+S2,within-subject,80,122,contests,1,"requires bottom-up comprehension, no unnecessary cognitive load, balance between simplicity and complexity",3
+S20,within-subject,3,3,open-source,1,"self-contained functionality, no special domain knowledge necessary for understanding, requires bottom-up comprehension, homogeneity concerning potential confounders, heterogeneity concerning the targeted constructs",5
+S21,within-subject,10,132,"open-source, previous studies",2,"random sampling, real-world code, taken/adapted from existing studies",3
+S22,within-subject,24,24,open-source,1,real-world code,1
+S23,within-subject,12,12,previous studies,1,taken/adapted from existing studies,1
+S24,within-subject,12,36,"open-source, text books",2,"real-world code, novice friendliness, requires bottom-up comprehension",3
+S25,within-subject,16,16,previous studies,1,"taken/adapted from existing studies, novice friendliness, balance between simplicity and complexity, thematic heterogeneity, homogeneity concerning potential confounders, requires bottom-up comprehension",6
+S26,between-subject,2,5,n/a,n/a,"real-world code, no special domain knowledge necessary for understanding, self-contained functionality",3
+S27,within-subject,9,27,"self-made, open-source",2,"balance between simplicity and complexity, real-world code, written in a popular/familiar programming language",3
+S28,within-subject,4,16,self-made,1,"balance between simplicity and complexity, self-contained functionality, homogeneity concerning potential confounders, never seen before by participants",4
+S29,within-subject,3,3,self-made,1,"novice friendliness, self-contained functionality",2
+S3,within-subject,6,18,self-made,1,"balance between simplicity and complexity, self-contained functionality, no extensive usage of (rare) APIs, no unnecessary cognitive load",4
+S30,between-subject,5,30,n/a,n/a,"novice friendliness, balance between simplicity and complexity",2
+S31,between-subject,1,4,text books,1,novice friendliness,1
+S32,between-subject,1,6,n/a,n/a,balance between simplicity and complexity,1
+S33,within-subject,10,32,self-made,1,"novice friendliness, self-contained functionality",2
+S34,between-subject,6,12,open-source,1,"written in a popular/familiar programming language, real-world code, self-contained functionality, balance between simplicity and complexity",4
+S35,within-subject,7,21,previous studies,1,"taken/adapted from existing studies, self-contained functionality",2
+S36,between-subject,1,8,text books,1,"homogeneity concerning potential confounders, heterogeneity concerning the targeted constructs, balance between simplicity and complexity",3
+S37,within-subject,12,22,n/a,n/a,balance between simplicity and complexity,1
+S38,within-subject,4,13,open-source,1,"self-contained functionality, balance between simplicity and complexity",2
+S39,within-subject,10,25,self-made,1,"balance between simplicity and complexity, requires bottom-up comprehension, novice friendliness, no extensive usage of (rare) APIs, heterogeneity concerning the targeted constructs",5
+S4,within-subject,5,30,open-source,1,"balance between simplicity and complexity, no special domain knowledge necessary for understanding, heterogeneity concerning the targeted constructs, homogeneity concerning potential confounders, self-contained functionality",5
+S40,within-subject,10,20,open-source,1,"real-world code, no unnecessary cognitive load, homogeneity concerning potential confounders, heterogeneity concerning the targeted constructs",4
+S41,within-subject,389,389,open-source,1,"balance between simplicity and complexity, real-world code",2
+S42,--,4,84,self-made,1,"real-world code, code written by participants",2
+S43,between-subject,1,1,industry,1,"real-world code, self-contained functionality, balance between simplicity and complexity, heterogeneity concerning the targeted constructs",4
+S44,between-subject,8,8,industry,1,"real-world code, self-contained functionality, heterogeneity concerning the targeted constructs, thematic heterogeneity, homogeneity concerning potential confounders",5
+S45,within-subject,6,6,"self-made, previous studies",2,"novice friendliness, self-contained functionality, no special domain knowledge necessary for understanding, heterogeneity concerning the targeted constructs, taken/adapted from existing studies, balance between simplicity and complexity",6
+S46,between-subject,12,24,open-source,1,"no special domain knowledge necessary for understanding, real-world code, balance between simplicity and complexity, homogeneity concerning potential confounders, thematic heterogeneity",5
+S47,within-subject,3,3,n/a,n/a,"novice friendliness,  balance between simplicity and complexity, homogeneity concerning potential confounders, requires bottom-up comprehension",4
+S48,between-subject,2,8,self-made,1,"written in a popular/familiar programming language, homogeneity concerning potential confounders",2
+S49,between-subject,1,4,previous studies,1,"no special domain knowledge necessary for understanding, balance between simplicity and complexity, taken/adapted from existing studies",3
+S5,between-subject,8,50,open-source,1,"balance between simplicity and complexity, heterogeneity concerning the targeted constructs",2
+S50,within-subject,14,14,self-made,1,"balance between simplicity and complexity, homogeneity concerning potential confounders",2
+S51,within-subject,3,3,self-made,1,"homogeneity concerning potential confounders, no unnecessary cognitive load",2
+S52,between-subject,5,10,open-source,1,"real-world code, thematic heterogeneity, heterogeneity concerning the targeted constructs, balance between simplicity and complexity",4
+S53,within-subject,20,20,self-made,1,novice friendliness,1
+S54,within-subject,n/a,n/a,n/a,n/a,n/a,0
+S55,within-subject,4,4,previous studies,1,taken/adapted from existing studies,1
+S56,within-subject,2,2,previous studies,1,"novice friendliness, taken/adapted from existing studies",2
+S57,within-subject,10,10,self-made,1,"heterogeneity concerning the targeted constructs, thematic heterogeneity, homogeneity concerning potential confounders",3
+S58,within-subject,15,63,open-source,1,"random sampling, real-world code, balance between simplicity and complexity",3
+S59,within-subject,n/a,n/a,previous studies,1,taken/adapted from existing studies,1
+S6,within-subject,100,100,open-source,1,"balance between simplicity and complexity, self-contained functionality, homogeneity concerning potential confounders",3
+S60,within-subject,3,3,self-made,1,"novice friendliness, homogeneity concerning potential confounders, written in a popular/familiar programming language",3
+S61,between-subject,1,2,text books,1,"no special domain knowledge necessary for understanding, homogeneity concerning potential confounders, balance between simplicity and complexity",3
+S62,between-subject,2,2,self-made,1,"no unnecessary cognitive load, homogeneity concerning potential confounders, requires bottom-up comprehension",3
+S63,within-subject,16,32,industry,1,"real-world code, homogeneity concerning potential confounders, random sampling",3
+S64,within-subject,2,4,previous studies,1,"real-world code, taken/adapted from existing studies, small enough to avoid extensive scrolling, homogeneity concerning potential confounders, heterogeneity concerning the targeted constructs",5
+S65,within-subject,45,50,open-source,1,"random sampling, real-world code, thematic heterogeneity, heterogeneity concerning the targeted constructs",4
+S66,within-subject,8,8,open-source,1,"random sampling, real-world code, balance between simplicity and complexity",3
+S67,between-subject,1,4,previous studies,1,"balance between simplicity and complexity, taken/adapted from existing studies",2
+S68,within-subject,13,13,self-made,1,"novice friendliness, balance between simplicity and complexity, heterogeneity concerning the targeted constructs",3
+S69,within-subject,10,10,open-source,1,"real-world code, thematic heterogeneity, balance between simplicity and complexity",3
+S7,within-subject,5,10,n/a,n/a,n/a,0
+S70,between-subject,2,2,n/a,n/a,"novice friendliness, homogeneity concerning potential confounders",2
+S71,between-subject,1,1,previous studies,1,"taken/adapted from existing studies, balance between simplicity and complexity, homogeneity concerning potential confounders",3
+S72,within-subject,1,1,n/a,n/a,"novice friendliness, homogeneity concerning potential confounders, requires bottom-up comprehension",3
+S73,within-subject,3,9,n/a,n/a,"thematic heterogeneity, balance between simplicity and complexity",2
+S74,within-subject,7,14,self-made,1,novice friendliness,1
+S75,within-subject,4,4,self-made,1,homogeneity concerning potential confounders,1
+S76,within-subject,2,4,self-made,1,requires bottom-up comprehension,1
+S77,within-subject,15,15,"self-made, previous studies",2,"written in a popular/familiar programming language, taken/adapted from existing studies",2
+S78,within-subject,8,8,"open-source, previous studies",2,taken/adapted from existing studies,1
+S79,between-subject,2,4,self-made,1,"novice friendliness, requires bottom-up comprehension",2
+S8,between-subject,10,20,self-made,1,n/a,0
+S80,within-subject,3,3,self-made,1,"novice friendliness, homogeneity concerning potential confounders",2
+S81,within-subject,3,6,"previous studies, self-made",2,"never seen before by participants, taken/adapted from existing studies",2
+S82,between-subject,3,3,open-source,1,"heterogeneity concerning the targeted constructs, homogeneity concerning potential confounders",2
+S83,within-subject,2,2,text books,1,"thematic heterogeneity, balance between simplicity and complexity",2
+S84,within-subject,54,54,"self-made, previous studies",2,"homogeneity concerning potential confounders, taken/adapted from existing studies, small enough to avoid extensive scrolling, balance between simplicity and complexity, thematic heterogeneity, requires bottom-up comprehension, no unnecessary cognitive load, no extensive usage of (rare) APIs",8
+S85,within-subject,n/a,n/a,self-made,1,novice friendliness,1
+S86,within-subject,16,16,n/a,n/a,"written in a popular/familiar programming language, self-contained functionality",2
+S87,between-subject,5,10,self-made,1,"novice friendliness, balance between simplicity and complexity",2
+S88,within-subject,4,4,n/a,n/a,n/a,0
+S89,within-subject,225,298,open-source,1,"balance between simplicity and complexity, small enough to avoid extensive scrolling, requires bottom-up comprehension",3
+S9,within-subject,13,40,self-made,1,"heterogeneity concerning the targeted constructs, homogeneity concerning potential confounders, no special domain knowledge necessary for understanding",3
+S90,between-subject,1,4,self-made,1,homogeneity concerning potential confounders,1
+S91,between-subject,2,4,"self-made, text books",2,"balance between simplicity and complexity, self-contained functionality, novice friendliness, never seen before by participants, no special domain knowledge necessary for understanding",5
+S92,between-subject,1,2,previous studies,1,"taken/adapted from existing studies, novice friendliness, no special domain knowledge necessary for understanding",3
+S93,within-subject,4,4,self-made,1,"self-contained functionality, thematic heterogeneity, balance between simplicity and complexity",3
+S94,between-subject,3,3,previous studies,1,"written in a popular/familiar programming language, no unnecessary cognitive load, thematic heterogeneity, small enough to avoid extensive scrolling, balance between simplicity and complexity, taken/adapted from existing studies",6
+S95,within-subject,3,3,n/a,n/a,"self-contained functionality, requires bottom-up comprehension",2

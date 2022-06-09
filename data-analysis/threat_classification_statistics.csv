@@ -1,0 +1,6 @@
+threat classification,count labels,rel to #labels,count papers,rel to #papers reporting threats
+internal,148,39.4%,62,78.5%
+external,153,40.7%,61,77.2%
+construct,58,15.4%,37,46.8%
+conclusion,16,4.3%,14,17.7%
+other,1,0.3%,1,1.3%
