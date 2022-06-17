@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6657640.svg)](https://doi.org/10.5281/zenodo.6657640)
+
 Replication package and supplemental materials for:
 "40 Years of Designing Code Comprehension Experiments: A Systematic Mapping Study", submission under review.
 
